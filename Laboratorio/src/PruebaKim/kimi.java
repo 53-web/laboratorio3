@@ -10,5 +10,5 @@ package PruebaKim;
  * @author kimig
  */
 public class kimi {
-    
+    Hola
 }
